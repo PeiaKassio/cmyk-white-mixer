@@ -6,7 +6,7 @@ Use it to test a color idea before wasting real paint: add parts from the tubes,
 
 ## Live demo
 
-Play the GitHub Pages demo: <https://github.com/PeiaKassio/cmyk-white-mixer>
+Play the GitHub Pages demo: <https://peiakassio.github.io/cmyk-white-mixer/>
 
 
 ## How to play
